@@ -236,10 +236,10 @@ void core1_entry() {
  * Initialize Board Pins
  **/
 void init() {
-  // LED Pin on when connected
+  // LED Pin off when connected
   gpio_init(25);
   gpio_set_dir(25, GPIO_OUT);
-  gpio_put(25, 1);
+  gpio_put(25, 0);
 
   reactive_timeout_timestamp = time_us_64();
 
