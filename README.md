@@ -1,6 +1,13 @@
 # Pico-Game-Controller-PicoFX-with-disabled-Pico-LED
 Veeeeeery little modification of... Well... All of these forks, but for disabling the Pico board LED. In case you wanna do like a project with a tupperwave transparent case (just like I did lol) and don't want it to blend in with the button LEDs
 
+Without LED (my fork)
+
+![noled](leddemo1.gif)
+
+With LED (OG [Pico-Game-Controller-PicoFX](https://github.com/dj505/Pico-Game-Controller-PicoFX) fork)
+
+![yesled](leddemo2.gif)
 
 The rest of the README is the OG one I forked
 
