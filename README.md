@@ -9,6 +9,8 @@ With LED (OG [Pico-Game-Controller-PicoFX](https://github.com/dj505/Pico-Game-Co
 
 ![yesled](leddemo2.gif)
 
+Look for the OG [Pico-Game-Controller-PicoFX](https://github.com/dj505/Pico-Game-Controller-PicoFX) repository/release for more info
+
 The rest of the README is the OG one I forked
 
 ----------------------------------------------
