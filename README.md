@@ -1,3 +1,11 @@
+# Pico-Game-Controller-PicoFX-with-disabled-Pico-LED
+Veeeeeery little modification of... Well... All of these forks, but for disabling the Pico board LED. In case you wanna do like a project with a tupperwave transparent case (just like I did lol) and don't want it to blend in with the button LEDs
+
+
+The rest of the README is the OG one I forked
+
+----------------------------------------------
+
 # Pico-Game-Controller-PNM
 Minor modification to Speedypotato's PGC firmware to support 9-button Pop'n music mini-controllers with corresponding lighting   
 (Major thanks to KyubiFox and Speedy for help)  
